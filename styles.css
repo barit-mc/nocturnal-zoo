@@ -1,9 +1,9 @@
-/* ===== Basics (shared by everyone) ===== */
+f/* ===== Basics (shared by everyone) ===== */
 
 :root {
     --bg: #fdf6e3;
     --fg: #2b2b2b;
-    --accent: #7a4fd6;
+    --accent: #ffaeb5;
 }
 
 body {
